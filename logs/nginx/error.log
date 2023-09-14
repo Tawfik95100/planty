@@ -29,3 +29,27 @@
 2023/09/01 13:48:14 [error] 27912#29092: *2384 connect() failed (10061: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "planty.local", referrer: "http://planty.local/wp-admin/customize.php?url=http%3A%2F%2Fplanty.local%2F"
 2023/09/01 13:51:23 [error] 27912#29092: *2449 connect() failed (10061: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "planty.local", referrer: "http://planty.local/wp-admin/themes.php"
 2023/09/08 11:00:11 [error] 24052#1780: *2393 FastCGI sent in stderr: "PHP Warning:  Undefined array key "data" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175" while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10009", host: "planty.local", referrer: "http://planty.local/wp-admin/admin.php?page=elementor-app&ver=3.15.3"
+2023/09/12 12:00:17 [error] 31116#1364: *3656 FastCGI sent in stderr: "PHP Warning:  Undefined array key "id" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+PHP Warning:  Undefined array key "id" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP War
+2023/09/12 12:00:17 [error] 31116#1364: *3659 FastCGI sent in stderr: "PHP Warning:  Undefined array key "id" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+PHP Warning:  Undefined array key "id" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 41
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP Warning:  Trying to access array offset on value of type bool in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+PHP War
