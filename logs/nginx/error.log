@@ -57,3 +57,6 @@ PHP War
 2023/09/18 10:08:30 [error] 24636#28908: *1 connect() failed (10061: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "planty.local"
 2023/09/18 10:08:32 [error] 24636#28908: *1 connect() failed (10061: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10009", host: "planty.local"
 2023/09/18 10:08:33 [error] 24636#28908: *4 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.0", upstream: "fastcgi://php", host: "planty.local", referrer: "http://planty.local/wp-admin/"
+2023/09/20 10:37:46 [alert] 24164#33328: OpenEvent("ngx_master_27668") failed (2: FormatMessage() error:(15100))
+2023/09/20 12:30:19 [alert] 10280#26784: OpenEvent("ngx_master_31240") failed (2: FormatMessage() error:(15100))
+2023/09/25 16:05:19 [alert] 11312#1152: OpenEvent("ngx_master_12976") failed (2: FormatMessage() error:(15100))

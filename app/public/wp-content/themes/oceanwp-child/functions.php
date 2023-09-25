@@ -5,12 +5,13 @@
 function add_admin_nav_menu($items, $args)
 {
     if (is_user_logged_in() && $args->theme_location == 'main_menu') {
-        $items .= '<li id="menu-item-26"><a href="http://planty.local/wp-admin/about.php"><span>Admin</span></a></li>';
+        $items .= '<li><a href="' . admin_url() . '">admin</a></li>';
     } elseif (!is_user_logged_in()) {
     }
     return $items;
 }
 add_filter('wp_nav_menu_items', 'add_admin_nav_menu', 10, 2);
+
 
 // Exit if accessed directly
 if (!defined('ABSPATH')) exit;
