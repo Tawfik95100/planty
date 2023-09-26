@@ -1,0 +1,12 @@
+#main #content-wrap{
+padding-top: 0%;
+padding-bottom: 0%;
+} #menu-item-24{
+background-color: #DC9F96;
+}
+#menu-item-24 a{
+color: white !important;
+}
+#menu-item-24:hover{
+background-color: #C02E44;
+}

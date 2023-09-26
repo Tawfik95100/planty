@@ -18,43 +18,16 @@ Updated: 2023-09-01 11:35:56
     padding-bottom: 0%;
 }
 
-/*Header*/
+/*Header (bouton commander)*/
 
-
-#site-header {
-    display: flex;
-    position: inherit;
-    flex-wrap: wrap;
-    align-content: center;
-    flex-direction: row;}
-
-    #site-header-inner {
-        
-        display: flex;
-        height: 100%;
-        flex-direction: row;
-        align-content: center;
-        justify-content: space-around;
-        align-items: center;
-        flex-wrap: wrap;
-        margin: 0;
-    
+#menu-item-24{
+    background-color: #DC9F96;
     }
 
-        #site-navigation-wrap .dropdown-menu {
-            list-style: none;
-            display: flex;
-            margin: 0;
-            padding: 0;
-            align-content: space-around;
-            flex-direction: row;
-        }
+#menu-item-24 a{
+    color: white !important;
+}
 
-        #menu-item-25{
-            order: -1;
-    flex: 1;
-        }
-
-        #menu-item-24{
-            order: 2;
-        }
+#menu-item-24:hover{
+     background-color: #C02E44;
+}

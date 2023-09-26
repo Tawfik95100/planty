@@ -114,13 +114,13 @@ padding: 20px;
 
 @media screen and (min-width: 767px) and (max-width: 956px){
      .number {
-        width: 97%;
+        width: 92%;
     }
     .boutons {
-        left: 49px;
+        left: 46px;
     }
     .bouton_ok {
-        padding: 15px 20px;
+        padding: 15px 18px;
     }
 }/* End custom CSS */
 /* Start custom CSS for html, class: .elementor-element-780d845 */.quantite {
