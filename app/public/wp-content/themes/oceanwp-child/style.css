@@ -20,14 +20,15 @@ Updated: 2023-09-01 11:35:56
 
 /*Header (bouton commander)*/
 
-#menu-item-24{
+#menu-item-24, .menu-item-24{
     background-color: #DC9F96;
     }
 
-#menu-item-24 a{
+#menu-item-24 a, .menu-item-24 a{
     color: white !important;
 }
 
-#menu-item-24:hover{
+#menu-item-24:hover, .menu-item-24:hover{
      background-color: #C02E44;
 }
+
