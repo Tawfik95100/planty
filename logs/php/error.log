@@ -3,3 +3,5 @@
 [26-Sep-2023 11:28:27 UTC] PHP Parse error:  syntax error, unexpected token "==" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 7
 [26-Sep-2023 13:34:26 UTC] PHP Warning:  Undefined array key "data" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
 [27-Sep-2023 09:59:30 UTC] PHP Warning:  Undefined array key "data" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[02-Oct-2023 15:39:49 UTC] PHP Warning:  Undefined array key "data" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[02-Oct-2023 15:50:37 UTC] PHP Warning:  Undefined array key "data" in C:\Users\tawfik\Local Sites\planty\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175

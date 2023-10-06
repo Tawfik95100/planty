@@ -62,3 +62,5 @@ PHP War
 2023/09/25 16:05:19 [alert] 11312#1152: OpenEvent("ngx_master_12976") failed (2: FormatMessage() error:(15100))
 2023/09/25 22:26:19 [alert] 12716#13468: OpenEvent("ngx_master_12176") failed (2: FormatMessage() error:(15100))
 2023/09/27 14:24:41 [alert] 14820#8876: OpenEvent("ngx_master_2760") failed (2: FormatMessage() error:(15100))
+2023/10/02 18:01:45 [alert] 6788#9944: OpenEvent("ngx_master_9984") failed (2: FormatMessage() error:(15100))
+2023/10/05 12:26:03 [alert] 8352#11956: OpenEvent("ngx_master_18428") failed (2: FormatMessage() error:(15100))
